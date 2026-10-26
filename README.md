@@ -3,11 +3,19 @@
 Card Grader looks at scans of your Pokémon cards the way a grader does: it measures centering, corners, edges and surface, then estimates PSA, Beckett and CGC grades and tells you whether a card is worth sending in.
 
 - It grades on your own computer. No account, no AI, and your scans never leave your PC.
-- It only goes online when you ask for card prices (it sends just the card's name, set and number) and to check for app updates.
+- It goes online only to recognize a card and look up its prices (it sends just the name and number it read from the card, never the scan) and to check for app updates.
+
+## What it does
+
+- **Grade a card, a whole folder, or as you scan.** Point it at the folder your scanner saves to and it grades each card a few seconds after you scan it (front first, then back).
+- **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it.
+- **Prices and "worth sending?"** Current raw and PSA prices, the chance of each grade, and whether grading pays after fees.
+- **Deal check.** The most you should pay for a card, from a scan or just the seller's photos.
+- **Trim and fake checks** against your own scanner's calibration.
 
 ## Download (Windows)
 
-**[Download Card Grader 1.4.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 2 MB). Already have it? It updates itself.
+**[Download Card Grader 1.5.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
 
 ## Install
 

@@ -1,18 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.4.0",
+ "version": "1.5.0",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "Card Grader now updates itself: new versions download and install automatically.",
-  "Step-by-step scanner calibration instructions on the Set up page.",
-  "Calibration combines modern and vintage backs."
+  "Grade as I scan: Card Grader watches the folder your scanner saves to and grades each card a few seconds after you scan it.",
+  "Recognizes the card from the scan: it reads the name and number and finds the exact card, so you don't have to type it.",
+  "Deal check: the most you should pay for a card, from a scan or just the seller's photos.",
+  "eBay sold-listing links in folder results and History."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.4.0/resources.neu",
-  "size": 1000679,
-  "sha256": "d6b41b5777502b6638b9b4246b78aa27e2b003e1b660642d80ebe6a58ed528e7"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.5.0/resources.neu",
+  "size": 8162408,
+  "sha256": "22260d7992c6d2398260bc23e199cf0a3d7f06af03d0f604d267b22649757921"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "rSqC4N5F/A5opRtkVMnPva7JtHMbWWugIicI3NtnQcwbvCs08RRcqsvC1QVqwgMmiy6t6yti77nZYGzWzJM3bQ=="
+ "sig": "mD+YMoXIJw7gWLZQG6JosTV9gBz9m68cMrgHAaK8dwkuSCHLFET8GeJO4W99ahx+d6Xzl1uwV0eonubMnVzfTw=="
 }
