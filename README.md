@@ -7,7 +7,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## Download (Windows)
 
-The Windows download will be here shortly. This page is being set up.
+**[Download Card Grader 1.4.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 2 MB). Already have it? It updates itself.
 
 ## Install
 

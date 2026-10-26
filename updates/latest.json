@@ -1,0 +1,18 @@
+{
+ "app": "card-grader",
+ "version": "1.4.0",
+ "date": "2026-10-26",
+ "minShell": "6.10.0",
+ "notes": [
+  "Card Grader now updates itself: new versions download and install automatically.",
+  "Step-by-step scanner calibration instructions on the Set up page.",
+  "Calibration combines modern and vintage backs."
+ ],
+ "bundle": {
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.4.0/resources.neu",
+  "size": 1000679,
+  "sha256": "d6b41b5777502b6638b9b4246b78aa27e2b003e1b660642d80ebe6a58ed528e7"
+ },
+ "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
+ "sig": "rSqC4N5F/A5opRtkVMnPva7JtHMbWWugIicI3NtnQcwbvCs08RRcqsvC1QVqwgMmiy6t6yti77nZYGzWzJM3bQ=="
+}
