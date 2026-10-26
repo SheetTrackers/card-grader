@@ -1,19 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.5.0",
+ "version": "1.5.1",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "Grade as I scan: Card Grader watches the folder your scanner saves to and grades each card a few seconds after you scan it.",
-  "Recognizes the card from the scan: it reads the name and number and finds the exact card, so you don't have to type it.",
-  "Deal check: the most you should pay for a card, from a scan or just the seller's photos.",
-  "eBay sold-listing links in folder results and History."
+  "After an update, Card Grader shows what's new and no longer says it's already open in another window."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.5.0/resources.neu",
-  "size": 8162408,
-  "sha256": "22260d7992c6d2398260bc23e199cf0a3d7f06af03d0f604d267b22649757921"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.5.1/resources.neu",
+  "size": 8162917,
+  "sha256": "9d57054f46178cda13f3ef93459844c1c26e1c27d4eba04bc99777c002f31b70"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "mD+YMoXIJw7gWLZQG6JosTV9gBz9m68cMrgHAaK8dwkuSCHLFET8GeJO4W99ahx+d6Xzl1uwV0eonubMnVzfTw=="
+ "sig": "Yg6/BaV+piil703qb/ID18VgUr4zKoZEwLgDyy6rE90Je3lfyISRWHKixskcPE69fL872M7KqXb44AFp6PaK6w=="
 }
