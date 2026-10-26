@@ -1,16 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.5.1",
+ "version": "1.5.2",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "After an update, Card Grader shows what's new and no longer says it's already open in another window."
+  "Cards that are upside down or sideways in the scan are turned the right way up automatically.",
+  "On black paper, the card's own cut edge is no longer counted as whitening, and whitening on the back counts a little less than on the front."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.5.1/resources.neu",
-  "size": 8162917,
-  "sha256": "9d57054f46178cda13f3ef93459844c1c26e1c27d4eba04bc99777c002f31b70"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.5.2/resources.neu",
+  "size": 8167102,
+  "sha256": "02a13f21aa1df8753feab713f167dbe70ae4d10a29bed9ed5d8f21a890545a40"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "Yg6/BaV+piil703qb/ID18VgUr4zKoZEwLgDyy6rE90Je3lfyISRWHKixskcPE69fL872M7KqXb44AFp6PaK6w=="
+ "sig": "gpgZFdrq8ynsm2gu11CRWb6JWnonAfTo+BAOIqTa7L7C6rOzNMz1Xw+AyNVlPlQFieoooj0R+QM/HbUMFaguWQ=="
 }
