@@ -1,17 +1,20 @@
 {
  "app": "card-grader",
- "version": "1.5.2",
+ "version": "1.6.0",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "Cards that are upside down or sideways in the scan are turned the right way up automatically.",
-  "On black paper, the card's own cut edge is no longer counted as whitening, and whitening on the back counts a little less than on the front."
+  "My collection: what each card is worth now, whether its price is climbing or falling, and whether to keep it, sell it or send it to PSA.",
+  "Prices are looked up as soon as a card is recognized. Grade as I scan saves each card to History, keeps watching after a restart and plays a sound when a card is done.",
+  "When a card sits between two grades, scan it again and both scans are combined into one grade. Cards you already have are pointed out.",
+  "The PSA submission list adds every card worth sending, groups them by service level and shows the expected profit.",
+  "Optional cropped copies instead of full scans, a warning for scan folders in OneDrive, and a weekly backup of your cards and settings."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.5.2/resources.neu",
-  "size": 8167102,
-  "sha256": "02a13f21aa1df8753feab713f167dbe70ae4d10a29bed9ed5d8f21a890545a40"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.6.0/resources.neu",
+  "size": 8245018,
+  "sha256": "76b2de4aea21305b0927adbd804ef3aca29da2c6f00e89f32cd68e8637b0d1bf"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "gpgZFdrq8ynsm2gu11CRWb6JWnonAfTo+BAOIqTa7L7C6rOzNMz1Xw+AyNVlPlQFieoooj0R+QM/HbUMFaguWQ=="
+ "sig": "S3MrWm27jGMx6kdyhVDqDaGs8wU7z5/EmP+1BNbpVCtekJTryrJwh0O6OeFz5xz9iVP2ftdKOHGbCeGFmepQBg=="
 }

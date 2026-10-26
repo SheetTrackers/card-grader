@@ -7,15 +7,20 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## What it does
 
-- **Grade a card, a whole folder, or as you scan.** Point it at the folder your scanner saves to and it grades each card a few seconds after you scan it (front first, then back).
+- **Grade a card, a whole folder, or as you scan.** Point it at the folder your scanner saves to and it grades each card a few seconds after you scan it (front first, then back), looks up its price and saves it to History. It keeps watching after it restarts or updates, and plays a short sound when a card is done.
 - **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it.
+- **Steadier grades.** When a card sits right between two grades, it asks for a second scan and combines both into one grade.
+- **My collection.** Every saved card with what it's worth now, whether its price is climbing or falling, and whether to keep it, sell it or send it to PSA, plus the total value.
+- **PSA submission list.** Adds every card worth grading, groups them by PSA service level and shows the fees and the expected profit.
 - **Prices and "worth sending?"** Current raw and PSA prices, the chance of each grade, and whether grading pays after fees.
 - **Deal check.** The most you should pay for a card, from a scan or just the seller's photos.
 - **Trim and fake checks** against your own scanner's calibration.
+- **Smaller scan files (optional).** Replaces each full scan with a cropped copy of just the card, named after it.
+- **Backups.** A weekly backup of your cards, calibration and settings, to move to a new computer.
 
 ## Download (Windows)
 
-**[Download Card Grader 1.5.2 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
+**[Download Card Grader 1.6.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
 
 ## Install
 
@@ -56,6 +61,13 @@ Card Grader updates itself. When a new version is ready, a bar at the top of the
 
 Every update is signed, and the app only installs updates that carry that signature. You can turn automatic updates off in **Settings → Updates**.
 
+## Grade as you scan
+
+1. Set your scanner software to save every scan into one folder, outside OneDrive or other cloud folders (full scans are big).
+2. In Card Grader, on **Grade a card**, press **Grade as I scan** and pick that folder.
+3. Scan the front, then flip the card and scan the back. A few seconds later it shows up graded, named and priced, and it's saved to History.
+4. If it asks for a second scan, scan the card again the same way: both scans are combined into one grade.
+
 ## Your data
 
-Your scans, saved cards, calibration and price key stay on your computer. Nothing you do in the app is uploaded.
+Your scans, saved cards, calibration and price key stay on your computer. Nothing you do in the app is uploaded. The weekly backup goes into your Documents folder, in **Card Grader backups**.
