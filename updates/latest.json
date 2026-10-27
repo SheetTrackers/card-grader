@@ -1,18 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.7.0",
+ "version": "1.7.1",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "New on the Set up page: Test your scanner. Scan one card and Card Grader checks the resolution, sharpening, file type, colour and background, and says exactly which setting to change.",
-  "Grade as I scan now tells you when no scans arrive (with where to set the save folder in Canon, Epson, HP, Windows Scan and Mac), when the scanner saves PDFs, and when scans are sharpened, too low a resolution, black and white or cropped too tight.",
-  "A card's scan notes also point out sharpening, strong JPG compression and black-and-white scans."
+  "If Card Grader is opened twice, only one window watches your scan folder, so a scan is never graded twice."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.7.0/resources.neu",
-  "size": 8271862,
-  "sha256": "15f5f152c362962e29792ecf2d3ab80ab8b7402a699cc2470245459c2e054cbe"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.7.1/resources.neu",
+  "size": 8272203,
+  "sha256": "574c206534a01c6e21895ac1a25dfd2a95e7951fb32c5668b0e566fd05ccf884"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "uSLJSEXU0ikb3Y948aFkeeo4WAX9Q3u6nHdwvvoSi3MbxHFGfCvOt7VmvWxirFnYjMpL5KlT364kgxWxWjEArA=="
+ "sig": "UCCAj8efb3094+8mODRTrlkhBJn+a8UFBVfMB+aEgaMw/xyb/CNgJSf2tJGioXUxBLn7CKHZeC+9z9nvMWN3Vg=="
 }
