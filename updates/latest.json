@@ -1,18 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.6.1",
+ "version": "1.6.2",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "Recognizes more cards on its own: it ignores the small \"Evolves from\" line, and it's sure of a card when the name or the number on it matches and the picture is clearly the closest.",
-  "An Open folder button on the watching bar (and in Settings) shows where your scans are.",
-  "Empty name boxes say \"Type the name\" instead of showing an example name."
+  "Recognizes many more older cards: their pictures from the card database are now downloaded properly, so cards like Furious Fists Clauncher are found on their own.",
+  "Recognizes more cards on its own: it ignores the small \"Evolves from\" line, and it's sure of a card when the name or number on it matches and the picture is clearly the closest.",
+  "An Open folder button on the watching bar (and in Settings) shows where your scans are."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.6.1/resources.neu",
-  "size": 8247928,
-  "sha256": "0080f85de34d14a5360edc0f3a09c9aa9fd508fb1267a432bec11d9ffef33234"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.6.2/resources.neu",
+  "size": 8249556,
+  "sha256": "9df4a73e427135c2b5c2bd2d70def444671c3dba526113a73057d4e83778e693"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "daQR/IbWtBqCvSfB9QJqfqogL3KBV1ZbMFB+SBfz0mBo4cJ9CLeS9GNCXliEh1uBIdlBFIbc9Viyu0ozUBgZ8A=="
+ "sig": "hf4zylkPvOiVCcjEa/KW1p8n3AuUaRrOsG0NfQrcIo9xs8vOTao12Vn1zbi0usq+Vkc8rFm0ka0BIhrEb3hSzQ=="
 }
