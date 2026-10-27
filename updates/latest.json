@@ -1,20 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.6.0",
+ "version": "1.6.1",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "My collection: what each card is worth now, whether its price is climbing or falling, and whether to keep it, sell it or send it to PSA.",
-  "Prices are looked up as soon as a card is recognized. Grade as I scan saves each card to History, keeps watching after a restart and plays a sound when a card is done.",
-  "When a card sits between two grades, scan it again and both scans are combined into one grade. Cards you already have are pointed out.",
-  "The PSA submission list adds every card worth sending, groups them by service level and shows the expected profit.",
-  "Optional cropped copies instead of full scans, a warning for scan folders in OneDrive, and a weekly backup of your cards and settings."
+  "Recognizes more cards on its own: it ignores the small \"Evolves from\" line, and it's sure of a card when the name or the number on it matches and the picture is clearly the closest.",
+  "An Open folder button on the watching bar (and in Settings) shows where your scans are.",
+  "Empty name boxes say \"Type the name\" instead of showing an example name."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.6.0/resources.neu",
-  "size": 8245018,
-  "sha256": "76b2de4aea21305b0927adbd804ef3aca29da2c6f00e89f32cd68e8637b0d1bf"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.6.1/resources.neu",
+  "size": 8247928,
+  "sha256": "0080f85de34d14a5360edc0f3a09c9aa9fd508fb1267a432bec11d9ffef33234"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "S3MrWm27jGMx6kdyhVDqDaGs8wU7z5/EmP+1BNbpVCtekJTryrJwh0O6OeFz5xz9iVP2ftdKOHGbCeGFmepQBg=="
+ "sig": "daQR/IbWtBqCvSfB9QJqfqogL3KBV1ZbMFB+SBfz0mBo4cJ9CLeS9GNCXliEh1uBIdlBFIbc9Viyu0ozUBgZ8A=="
 }
