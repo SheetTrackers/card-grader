@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.10.0",
+ "version": "1.11.0",
  "date": "2026-10-27",
  "minShell": "6.10.0",
  "notes": [
-  "New: check the centering of a card that's still in its slab. On Grade a card, press Check a slab's centering.",
-  "Credits and licenses for the parts Card Grader is built with are on the How grading works page."
+  "Centering on full arts, illustration rares and alt arts: once the card is recognised, the scan is lined up with the official card picture and the centering is read from how far the print sits off.",
+  "Slab centering does the same for full-art cards in slabs."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.10.0/resources.neu",
-  "size": 9295374,
-  "sha256": "613e160e65f3d0148355c3888efb84892ef759172a4d902ac2da3e55ab33bcce"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.11.0/resources.neu",
+  "size": 9316010,
+  "sha256": "172de220661d0927f090324372f05a683b6725a99e5db18c7fca6a670721c668"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "pAhX3t3la9AuEEm8Q+GByV/sFrN0SZdGwsSHY9R6FXGtts4L6xiNoI8IXYahuCck5fynhD/CDM1JLeD0dXWa4w=="
+ "sig": "C2RfqJjPkoqmQeO5N/8Siej5xiRxkMbL5LNXN/HNdbij7WdR5dxr4IYhwaQ95qFaVqGGLAx1vGwoi7fIA2f8gg=="
 }
