@@ -1,18 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.6.2",
+ "version": "1.7.0",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "Recognizes many more older cards: their pictures from the card database are now downloaded properly, so cards like Furious Fists Clauncher are found on their own.",
-  "Recognizes more cards on its own: it ignores the small \"Evolves from\" line, and it's sure of a card when the name or number on it matches and the picture is clearly the closest.",
-  "An Open folder button on the watching bar (and in Settings) shows where your scans are."
+  "New on the Set up page: Test your scanner. Scan one card and Card Grader checks the resolution, sharpening, file type, colour and background, and says exactly which setting to change.",
+  "Grade as I scan now tells you when no scans arrive (with where to set the save folder in Canon, Epson, HP, Windows Scan and Mac), when the scanner saves PDFs, and when scans are sharpened, too low a resolution, black and white or cropped too tight.",
+  "A card's scan notes also point out sharpening, strong JPG compression and black-and-white scans."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.6.2/resources.neu",
-  "size": 8249556,
-  "sha256": "9df4a73e427135c2b5c2bd2d70def444671c3dba526113a73057d4e83778e693"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.7.0/resources.neu",
+  "size": 8271862,
+  "sha256": "15f5f152c362962e29792ecf2d3ab80ab8b7402a699cc2470245459c2e054cbe"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "hf4zylkPvOiVCcjEa/KW1p8n3AuUaRrOsG0NfQrcIo9xs8vOTao12Vn1zbi0usq+Vkc8rFm0ka0BIhrEb3hSzQ=="
+ "sig": "uSLJSEXU0ikb3Y948aFkeeo4WAX9Q3u6nHdwvvoSi3MbxHFGfCvOt7VmvWxirFnYjMpL5KlT364kgxWxWjEArA=="
 }

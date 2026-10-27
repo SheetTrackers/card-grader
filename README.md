@@ -20,7 +20,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## Download (Windows)
 
-**[Download Card Grader 1.6.2 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
+**[Download Card Grader 1.7.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
 
 ## Install
 
@@ -33,11 +33,12 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 The **Set up** page walks you through everything, one step at a time:
 
-1. **Scanner settings**: 600 dpi or higher, colour, all auto-enhance options off. A sheet of black paper behind the cards gives the best results.
-2. **Grading costs**: PSA's prices are already filled in. Change them if you pay something different.
-3. **Where you sell**: pick eBay, Misprint or your own fees.
-4. **Free price key** (optional): for PSA graded prices, get your own free key at pokemonpricetracker.com. Each person needs their own key.
-5. **Calibrate your scanner** (do this, see below).
+1. **Scanner settings**: 600 dpi or higher, colour, all auto-enhance options off (sharpening or "Unsharp Mask" too). A sheet of black paper behind the cards gives the best results.
+2. **Test your scanner**: scan one card and pick the scan on the Set up page. Card Grader checks the resolution, sharpening, file type, colour and background, and tells you exactly which setting to change.
+3. **Grading costs**: PSA's prices are already filled in. Change them if you pay something different.
+4. **Where you sell**: pick eBay, Misprint or your own fees.
+5. **Free price key** (optional): for PSA graded prices, get your own free key at pokemonpricetracker.com. Each person needs their own key.
+6. **Calibrate your scanner** (do this, see below).
 
 ## Calibrate your scanner
 
@@ -67,6 +68,8 @@ Every update is signed, and the app only installs updates that carry that signat
 2. In Card Grader, on **Grade a card**, press **Grade as I scan** and pick that folder.
 3. Scan the front, then flip the card and scan the back. A few seconds later it shows up graded, named and priced, and it's saved to History.
 4. If it asks for a second scan, scan the card again the same way: both scans are combined into one grade.
+
+If nothing shows up after a couple of minutes, Card Grader says so and shows where to set the save folder in Canon, Epson, HP, Windows Scan and Mac Image Capture. It also warns when the scanner saves PDFs, or when the first scans are sharpened, too low a resolution, black and white or cropped too tight.
 
 ## Your data
 
