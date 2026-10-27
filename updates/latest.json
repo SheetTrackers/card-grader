@@ -1,18 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.9.1",
+ "version": "1.10.0",
  "date": "2026-10-27",
  "minShell": "6.10.0",
  "notes": [
-  "PSA's October 2026 prices: the Value levels are paused, so they're switched off until PSA reopens them (tick Use in Settings when it does).",
-  "Standard ($59.99) is the new cheapest level. Regular is now called Priority, Express is $199, and Walk Through is now called Premier.",
-  "Prices you changed yourself are kept, and older backups are brought up to date when restored."
+  "New: check the centering of a card that's still in its slab. On Grade a card, press Check a slab's centering.",
+  "Credits and licenses for the parts Card Grader is built with are on the How grading works page."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.9.1/resources.neu",
-  "size": 9220959,
-  "sha256": "fae8d6de2b86b769fb6a550a6133b2d0dd9d57d63aa6616967d43996c0c5d972"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.10.0/resources.neu",
+  "size": 9295374,
+  "sha256": "613e160e65f3d0148355c3888efb84892ef759172a4d902ac2da3e55ab33bcce"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "sU8DhhBccR/tYzTapROaP6RmSkp5i0gfewliHWIUKyzkG5oGma/RJjRLW8rhO9k5iUrfe1/51KLurcAE04NZdQ=="
+ "sig": "pAhX3t3la9AuEEm8Q+GByV/sFrN0SZdGwsSHY9R6FXGtts4L6xiNoI8IXYahuCck5fynhD/CDM1JLeD0dXWa4w=="
 }
