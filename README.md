@@ -11,6 +11,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 - **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it. That includes full arts, special illustration rares, Galarian Gallery and Trainer Gallery cards, trainer cards and promos. When it isn't sure and you pick the card, it remembers it, so the next scan of that card is recognized.
 - **Steadier grades.** When a card sits right between two grades, it asks for a second scan and combines both into one grade.
 - **My collection.** Every saved card with what it's worth now, whether its price is climbing or falling, and whether to keep it, sell it or send it to PSA, plus the total value.
+- **Profit tracking.** Add what you paid and what a card sold for: it shows the profit on each card after PSA's fee, shipping and selling fees, your totals, what the cards you still have would make today, and which cards earn the most (graded or raw, by grade and by set).
 - **PSA submission list.** Adds every card worth grading, groups them by PSA service level and shows the fees and the expected profit.
 - **Learns from your PSA results.** Mark a submission as sent, type in the grades when it comes back, and the estimates adjust to how PSA grades your cards, including where they tend to miss (edges, say).
 - **Prices and "worth sending?"** Current raw and PSA prices, the chance of each grade, and whether grading pays after fees.
@@ -21,7 +22,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## Download (Windows)
 
-**[Download Card Grader 1.8.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
+**[Download Card Grader 1.9.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 7 MB). Already have it? It updates itself.
 
 ## Install
 
@@ -31,6 +32,8 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 4. Click **Install**, then **Finish**. Card Grader opens on its **Set up** page.
 
 ## First-time setup
+
+New to the app? Press **Tour** at the top of the window. It takes about two minutes, goes page by page, highlights each feature with a short explanation and shows a made-up sample card, so you can see the results pages before scanning anything.
 
 The **Set up** page walks you through everything, one step at a time:
 

@@ -1,18 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.8.0",
+ "version": "1.9.0",
  "date": "2026-10-27",
  "minShell": "6.10.0",
  "notes": [
-  "Remembers cards you pick: when it isn't sure and you pick or name the card, the next scan of that card is recognized",
-  "PSA results: press Sent to PSA on the submission list, then type every grade in under At PSA when the cards come back; grades can also be added from My collection",
-  "History shows where the estimates miss, by the part that held each card back, and the estimates adjust for cards held back the same way"
+  "New: a guided tour. Press Tour at the top of the window: it goes page by page, highlights each feature with a short explanation and shows a made-up sample card.",
+  "New: profit tracking in My collection. Add what you paid and what a card sold for to see the profit on each card after PSA's fee, shipping and selling fees, your totals, and which cards earn the most.",
+  "Sold cards move to a Sold filter, and the spreadsheets include what you paid, the sale and the profit."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.8.0/resources.neu",
-  "size": 8317009,
-  "sha256": "0821d4490b7995fb85bd92eeea0822c0e95ff50872085da22be9a3df51495c1c"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.9.0/resources.neu",
+  "size": 9195963,
+  "sha256": "c1e8259c40b2c9c856b09f04dc5aec6858aca1f6a7e16c1d25f969ff6c402fe2"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "yPf8L3lHtff+7kePdhO/ZdZ4ECZOVLaPEFYFab1chfZMlFXMKeOFT1tfXoMbpmUsYlndvHmV4X5nussoSyh0qg=="
+ "sig": "6APLxwDLlOQ0PywSGSzdUQLLEMQPV6+fQG0H3kfGkJAHJwc9tSoxz+uUHper+aQtWlkBrC0dZPj3KpGniHnn7w=="
 }
