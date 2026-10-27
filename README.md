@@ -8,10 +8,11 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 ## What it does
 
 - **Grade a card, a whole folder, or as you scan.** Point it at the folder your scanner saves to and it grades each card a few seconds after you scan it (front first, then back), looks up its price and saves it to History. It keeps watching after it restarts or updates, and plays a short sound when a card is done.
-- **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it. That includes full arts, special illustration rares, Galarian Gallery and Trainer Gallery cards, trainer cards and promos.
+- **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it. That includes full arts, special illustration rares, Galarian Gallery and Trainer Gallery cards, trainer cards and promos. When it isn't sure and you pick the card, it remembers it, so the next scan of that card is recognized.
 - **Steadier grades.** When a card sits right between two grades, it asks for a second scan and combines both into one grade.
 - **My collection.** Every saved card with what it's worth now, whether its price is climbing or falling, and whether to keep it, sell it or send it to PSA, plus the total value.
 - **PSA submission list.** Adds every card worth grading, groups them by PSA service level and shows the fees and the expected profit.
+- **Learns from your PSA results.** Mark a submission as sent, type in the grades when it comes back, and the estimates adjust to how PSA grades your cards, including where they tend to miss (edges, say).
 - **Prices and "worth sending?"** Current raw and PSA prices, the chance of each grade, and whether grading pays after fees.
 - **Deal check.** The most you should pay for a card, from a scan or just the seller's photos.
 - **Trim and fake checks** against your own scanner's calibration.
@@ -20,7 +21,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## Download (Windows)
 
-**[Download Card Grader 1.7.2 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
+**[Download Card Grader 1.8.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
 
 ## Install
 

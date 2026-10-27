@@ -1,18 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.7.2",
- "date": "2026-10-26",
+ "version": "1.8.0",
+ "date": "2026-10-27",
  "minShell": "6.10.0",
  "notes": [
-  "Recognizes many more full arts and special cards: Galarian Gallery, Trainer Gallery, special illustration rares, trainer cards like Perrin, and promos",
-  "Reads card numbers more reliably, so reprints with the same picture are told apart",
-  "A card you name or pick yourself no longer says Not sure or Couldn't recognize, even if you named it while it was still being recognized"
+  "Remembers cards you pick: when it isn't sure and you pick or name the card, the next scan of that card is recognized",
+  "PSA results: press Sent to PSA on the submission list, then type every grade in under At PSA when the cards come back; grades can also be added from My collection",
+  "History shows where the estimates miss, by the part that held each card back, and the estimates adjust for cards held back the same way"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.7.2/resources.neu",
-  "size": 8293707,
-  "sha256": "ff4eeb145573b629978396bc381a6eb0566016f879d6bc87820403d0bafb3413"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.8.0/resources.neu",
+  "size": 8317009,
+  "sha256": "0821d4490b7995fb85bd92eeea0822c0e95ff50872085da22be9a3df51495c1c"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "gooluCXBS/ZjE5hh0sAiCyHa1mS3INKtCrEa8Pg9nWtNjLi8o6ToNAcuh9dXRStTvAPg/Uvg6RJZdhEx0DwgQA=="
+ "sig": "yPf8L3lHtff+7kePdhO/ZdZ4ECZOVLaPEFYFab1chfZMlFXMKeOFT1tfXoMbpmUsYlndvHmV4X5nussoSyh0qg=="
 }
