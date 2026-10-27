@@ -3,12 +3,12 @@
 Card Grader looks at scans of your Pokémon cards the way a grader does: it measures centering, corners, edges and surface, then estimates PSA, Beckett and CGC grades and tells you whether a card is worth sending in.
 
 - It grades on your own computer. No account, no AI, and your scans never leave your PC.
-- It goes online only to recognize a card and look up its prices (it sends just the name and number it read from the card, never the scan) and to check for app updates.
+- It goes online only to recognize a card and look up its prices (it sends just the name and number it read from the card, never the scan, and downloads the official card pictures to compare) and to check for app updates.
 
 ## What it does
 
 - **Grade a card, a whole folder, or as you scan.** Point it at the folder your scanner saves to and it grades each card a few seconds after you scan it (front first, then back), looks up its price and saves it to History. It keeps watching after it restarts or updates, and plays a short sound when a card is done.
-- **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it.
+- **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it. That includes full arts, special illustration rares, Galarian Gallery and Trainer Gallery cards, trainer cards and promos.
 - **Steadier grades.** When a card sits right between two grades, it asks for a second scan and combines both into one grade.
 - **My collection.** Every saved card with what it's worth now, whether its price is climbing or falling, and whether to keep it, sell it or send it to PSA, plus the total value.
 - **PSA submission list.** Adds every card worth grading, groups them by PSA service level and shows the fees and the expected profit.
@@ -20,7 +20,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## Download (Windows)
 
-**[Download Card Grader 1.7.1 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
+**[Download Card Grader 1.7.2 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 6 MB). Already have it? It updates itself.
 
 ## Install
 

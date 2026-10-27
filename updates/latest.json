@@ -1,16 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.7.1",
+ "version": "1.7.2",
  "date": "2026-10-26",
  "minShell": "6.10.0",
  "notes": [
-  "If Card Grader is opened twice, only one window watches your scan folder, so a scan is never graded twice."
+  "Recognizes many more full arts and special cards: Galarian Gallery, Trainer Gallery, special illustration rares, trainer cards like Perrin, and promos",
+  "Reads card numbers more reliably, so reprints with the same picture are told apart",
+  "A card you name or pick yourself no longer says Not sure or Couldn't recognize, even if you named it while it was still being recognized"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.7.1/resources.neu",
-  "size": 8272203,
-  "sha256": "574c206534a01c6e21895ac1a25dfd2a95e7951fb32c5668b0e566fd05ccf884"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.7.2/resources.neu",
+  "size": 8293707,
+  "sha256": "ff4eeb145573b629978396bc381a6eb0566016f879d6bc87820403d0bafb3413"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "UCCAj8efb3094+8mODRTrlkhBJn+a8UFBVfMB+aEgaMw/xyb/CNgJSf2tJGioXUxBLn7CKHZeC+9z9nvMWN3Vg=="
+ "sig": "gooluCXBS/ZjE5hh0sAiCyHa1mS3INKtCrEa8Pg9nWtNjLi8o6ToNAcuh9dXRStTvAPg/Uvg6RJZdhEx0DwgQA=="
 }
