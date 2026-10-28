@@ -27,9 +27,13 @@ Cardwright looks at scans of your Pokémon cards the way a grader does: it measu
 - **Smaller scan files (optional).** Replaces each full scan with a cropped copy of just the card, named after it.
 - **Backups.** A weekly backup of your cards, calibration and settings, to move to a new computer.
 
+## Price
+
+Grade 5 cards free first. Then **Standard** is $49 once, for your own cards, or **Pro** is $39 a month (or $390 a year) and adds Show mode for grading customers' cards at card shows. Buy at [cardwright.app](https://cardwright.app); your license key comes in the receipt email.
+
 ## Download (Windows)
 
-**[Download Cardwright 1.14.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 7 MB). Already have it? It updates itself.
+**[Download Cardwright 1.15.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 7 MB). Already have it? It updates itself.
 
 ## Install
 
