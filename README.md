@@ -7,16 +7,17 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## What it does
 
-- **Grade a card, a whole folder, or as you scan.** Point it at the folder your scanner saves to and it grades each card a few seconds after you scan it (front first, then back), looks up its price and saves it to History. It keeps watching after it restarts or updates, and plays a short sound when a card is done.
+- **Grade a card, a whole folder, or as you scan.** Every card is saved to History and My collection as soon as it's graded, and grading the same scan again updates its saved card instead of adding it twice. Point it at the folder your scanner saves to and it grades each card a few seconds after you scan it (front first, then back) and looks up its price. Fronts and backs are paired even when your scanner names files only by number or time, and a slow scanner is fine. It keeps watching after it restarts or updates, and plays a short sound when a card is done.
 - **Recognizes the card.** It reads the name and number on the scan and finds the exact card, so you don't have to type it. That includes full arts, special illustration rares, Galarian Gallery and Trainer Gallery cards, trainer cards and promos. When it isn't sure and you pick the card, it remembers it, so the next scan of that card is recognized.
 - **Steadier grades.** When a card sits right between two grades, it asks for a second scan and combines both into one grade.
+- **History.** Open any saved card's full page with every measurement, export your cards, or delete some or all of them (a copy is saved first).
 - **My collection.** Every saved card with what it's worth now, whether its price is climbing or falling, and whether to keep it, sell it or send it to PSA, plus the total value.
 - **Profit tracking.** Add what you paid and what a card sold for: it shows the profit on each card after PSA's fee, shipping and selling fees, your totals, what the cards you still have would make today, and which cards earn the most (graded or raw, by grade and by set).
 - **PSA submission list.** Adds every card worth grading, groups them by PSA service level and shows the fees and the expected profit.
 - **Learns from your PSA results.** Mark a submission as sent, type in the grades when it comes back, and the estimates adjust to how PSA grades your cards, including where they tend to miss (edges, say).
 - **Prices and "worth sending?"** Current raw and PSA prices, the chance of each grade, and whether grading pays after fees.
 - **Centering on full arts.** Illustration rares, full arts and alt arts have no printed frame to measure the borders against. Once the card is recognised, its scan is lined up with the official card picture and the centering is read from how far the print sits off.
-- **Slab centering.** Scan a card that's still in its PSA, CGC or Beckett slab and see how well centred it is, to judge whether cracking it out and sending it again could come back higher. Corners, edges and surface can't be judged through the plastic, so only centering is measured.
+- **Slab centering.** Scan a card that's still in its PSA, CGC or Beckett slab and see how well centred it is, to judge whether cracking it out and sending it again could come back higher. Corners, edges and surface can't be judged through the plastic, so only centering is measured. Save the slab to My collection with the grade on its label to track what it's worth.
 - **Deal check.** The most you should pay for a card, from a scan or just the seller's photos.
 - **Trim and fake checks** against your own scanner's calibration.
 - **Smaller scan files (optional).** Replaces each full scan with a cropped copy of just the card, named after it.
@@ -24,7 +25,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## Download (Windows)
 
-**[Download Card Grader 1.11.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 7 MB). Already have it? It updates itself.
+**[Download Card Grader 1.12.1 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 7 MB). Already have it? It updates itself.
 
 ## Install
 

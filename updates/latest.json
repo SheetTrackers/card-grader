@@ -1,17 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.11.0",
+ "version": "1.12.1",
  "date": "2026-10-27",
  "minShell": "6.10.0",
  "notes": [
-  "Centering on full arts, illustration rares and alt arts: once the card is recognised, the scan is lined up with the official card picture and the centering is read from how far the print sits off.",
-  "Slab centering does the same for full-art cards in slabs."
+  "Fronts and backs are tied together even when your scanner names scans only by number or time, and a slow scanner is fine: a front waits for its back until the next card's front arrives.",
+  "Every graded card is saved to History and My collection as soon as it's graded (one card, a folder or a scan with several cards). Grading the same scan again updates its saved card.",
+  "History: Open shows a saved card's full page, and Delete cards\u2026 deletes some or all cards (a copy is saved first).",
+  "Slabs can be saved to My collection with the grade on their label."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.11.0/resources.neu",
-  "size": 9316010,
-  "sha256": "172de220661d0927f090324372f05a683b6725a99e5db18c7fca6a670721c668"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.12.1/resources.neu",
+  "size": 9362186,
+  "sha256": "f0309f64047ec9f1969dc97bca889d4c429c3f9f1647dd015f6d7312e1e361c9"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "C2RfqJjPkoqmQeO5N/8Siej5xiRxkMbL5LNXN/HNdbij7WdR5dxr4IYhwaQ95qFaVqGGLAx1vGwoi7fIA2f8gg=="
+ "sig": "ym9kbhhHDE/8K5QcacE2OSMyyDvCo01n2/n6JEJMTR4aXoGpEvmF5t8Fq6Dr1eL9ZrgjCVy0ljsakLyVWwuRUg=="
 }
