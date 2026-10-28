@@ -1,18 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.12.2",
+ "version": "1.13.0",
  "date": "2026-10-27",
  "minShell": "6.10.0",
  "notes": [
-  "Change folder button on the watching bar and in Settings, to watch a different scans folder",
-  "One tiny speck at an edge no longer drops the edge grade; it's flagged so you can check it by eye",
-  "Cropped copies are named without a doubled 'front'"
+  "30th Celebration and Celebrations Classic Collection reprints are told from the original by their anniversary stamp, and priced and searched on eBay by the number printed on them",
+  "Beckett: the chance of a Black Label next to the PSA odds, and Beckett instead? with Beckett's grade chances, prices and fees (editable in Settings) and how it compares with PSA",
+  "The price panel no longer squeezes the card's details when a card has no picture"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.12.2/resources.neu",
-  "size": 9365498,
-  "sha256": "cc4319af5c3c831fd119262b2444caee1c4cb9331d4df9ce8025f291990604c5"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.13.0/resources.neu",
+  "size": 9413323,
+  "sha256": "0bdf1a9adb4031dda3c572a16e4dd706da532d3bb285c3f5d5f727cbc15e89ef"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "w8njtnYWiwwC+MNBr4Ngs3YNcZTILjB6LeYnlcAIFDtvxKfAjYw6RxhL6kt9aen1T8J71k4XuYebkzvyz3sA0Q=="
+ "sig": "93nLr0YGUkTmXI4RptgBWKYcOiEKfxRkPi5fOtCH+QuUeepGe3XcrmN5vnl8Kc5mKCPhc2gJe+t0tE5HqsBmHw=="
 }

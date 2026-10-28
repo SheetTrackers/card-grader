@@ -15,7 +15,8 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 - **Profit tracking.** Add what you paid and what a card sold for: it shows the profit on each card after PSA's fee, shipping and selling fees, your totals, what the cards you still have would make today, and which cards earn the most (graded or raw, by grade and by set).
 - **PSA submission list.** Adds every card worth grading, groups them by PSA service level and shows the fees and the expected profit.
 - **Learns from your PSA results.** Mark a submission as sent, type in the grades when it comes back, and the estimates adjust to how PSA grades your cards, including where they tend to miss (edges, say).
-- **Prices and "worth sending?"** Current raw and PSA prices, the chance of each grade, and whether grading pays after fees.
+- **Prices and "worth sending?"** Current raw and PSA prices, the chance of each grade, and whether grading pays after fees. Classic Collection reprints (30th Celebration, Celebrations) are told from the original by their anniversary stamp, and searched on eBay by the number printed on them.
+- **Beckett too.** The chance of a Black Label (a 10 in all four subgrades) next to the PSA odds, the chance of each Beckett grade, and whether Beckett or PSA leaves you more after fees, with eBay sold searches for each Beckett grade.
 - **Centering on full arts.** Illustration rares, full arts and alt arts have no printed frame to measure the borders against. Once the card is recognised, its scan is lined up with the official card picture and the centering is read from how far the print sits off.
 - **Slab centering.** Scan a card that's still in its PSA, CGC or Beckett slab and see how well centred it is, to judge whether cracking it out and sending it again could come back higher. Corners, edges and surface can't be judged through the plastic, so only centering is measured. Save the slab to My collection with the grade on its label to track what it's worth.
 - **Deal check.** The most you should pay for a card, from a scan or just the seller's photos.
@@ -25,7 +26,7 @@ Card Grader looks at scans of your Pokémon cards the way a grader does: it meas
 
 ## Download (Windows)
 
-**[Download Card Grader 1.12.2 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 7 MB). Already have it? It updates itself.
+**[Download Card Grader 1.13.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 7 MB). Already have it? It updates itself.
 
 ## Install
 
