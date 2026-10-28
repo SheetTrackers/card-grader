@@ -1,17 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.13.1",
+ "version": "1.14.0",
  "date": "2026-10-28",
  "minShell": "6.10.0",
  "notes": [
-  "Beckett estimates learn from the real Beckett grades you add in History, the same way the PSA ones learn from real PSA grades",
-  "If the window opens without one of the app's parts (it happened once in testing), that part is loaded again before the app starts"
+  "Card Grader is now Cardwright, with a new logo and icon",
+  "Show mode: grade cards for customers at card shows and email them a full report with every tab",
+  "Customer reports and emails carry the Cardwright logo; send them from an alias such as results@"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.13.1/resources.neu",
-  "size": 9418344,
-  "sha256": "204f6bd34dd59100543867a93c2fa7258ccdbea6279e8e1651bd0d41903a1d45"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.14.0/resources.neu",
+  "size": 9381970,
+  "sha256": "3c4fa45dd358562c860c523041e993f1506d217516cc5fcbe05abf9e4b48f237"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "i0spw3Qn2d0tUHCcVzUQTgxNXE3Lpcys2PYgvFnePjuj6Xyys3JKeGQYw8Dug3+g4GZUVW3s8YVir9HTVU+2FA=="
+ "sig": "UUDw+V6pjNXVyEOOxasn32c7NtqLfsQmNsDJx1LgEaJEEC6ZTp0yXD4kPVTclJtfgU8iKZNbk+flSSWtwOoqdw=="
 }
