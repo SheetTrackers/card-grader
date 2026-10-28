@@ -1,18 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.15.0",
+ "version": "1.15.1",
  "date": "2026-10-28",
  "minShell": "6.10.0",
  "notes": [
-  "Selling is on: grade 5 cards free, then Standard is $49 once, or Pro is $39 a month or $390 a year with Show mode",
-  "Already bought? Enter your license key in Settings, License",
-  "The new Cardwright icon now shows on your desktop and Start menu"
+  "Standard owners can go Pro from Settings, License: Get Pro, then paste the Pro key. Your Standard key stays saved underneath",
+  "Set up: the friend section now points to cardwright.app"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.15.0/resources.neu",
-  "size": 9384214,
-  "sha256": "af55fae6282caedafedf5bea6f443cc7b2b69ac114ab86a3e58c647cde116bb6"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.15.1/resources.neu",
+  "size": 9385100,
+  "sha256": "a649b7ec4103b8baa5de75f936d422edbad6f3b48d38a078a68097e2e7e808da"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "r5LgPgEbyJUlwfpYcTYWeUvlILr22W7nPqtO2/R/C5TeeZjP/KMCxb6bfAMbGlN+XCqfGmMyCsd83BeC+BdAZA=="
+ "sig": "oN/ChzHFiW3Yb0e4r+X2H3A1WP6PI6aNHH+ZSgzGAiw0Q0cDaUfOxhxq1cyyTVOEybC5lNdQpk362P4PGlOwyw=="
 }
