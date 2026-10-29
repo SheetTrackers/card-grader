@@ -1,18 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.15.2",
+ "version": "1.15.3",
  "date": "2026-10-28",
  "minShell": "6.10.0",
  "notes": [
-  "The slab page finds the card in slabs scanned sideways, upside down or a little crooked, and fills in the card, number, grader and grade from the file name",
-  "Fewer false \"scan looks sharpened\" warnings on sharp scanners with sharpening off",
-  "When a card's dark edge meets black paper, it now says to scan that card on white"
+  "Saves your daily price lookups: graded prices are kept a week, and cheap cards that can't pay to grade skip the PSA lookup (with a button to look them up anyway)",
+  "Scanning advice now says to leave the scanner lid open, the easiest way to get a black background"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.15.2/resources.neu",
-  "size": 9401590,
-  "sha256": "c390dcf6e185adb52b31eaff53249f1641f29e20ec7b316086ca29cd65f96b5a"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.15.3/resources.neu",
+  "size": 9405267,
+  "sha256": "f475acd3450abde077d39bcc7a9f57f7b33e0498b615c9ba7d3021fab09f353a"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "hmwOWfHY4eETJ/uBh/NOdU9uEIvENSLLyaRJHFFTjwV/gaSw1o9F9ZVbr0m8PrlUnJ8hnb8yfeXDaKdU1v1rEA=="
+ "sig": "DrLUQdT6ygeg5YlHnu5xghC2YUM+Vmr36RKL5O7/pDx4g+HpztLi9TcAwHJkJbU1gGZe68aw+X2Btd2fj/IfWw=="
 }
