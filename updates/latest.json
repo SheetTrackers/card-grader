@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.15.3",
- "date": "2026-10-28",
+ "version": "1.16.0",
+ "date": "2026-10-29",
  "minShell": "6.10.0",
  "notes": [
-  "Saves your daily price lookups: graded prices are kept a week, and cheap cards that can't pay to grade skip the PSA lookup (with a button to look them up anyway)",
-  "Scanning advice now says to leave the scanner lid open, the easiest way to get a black background"
+  "PSA prices now come through Cardwright: enter your license key and PSA 10, 9, 8 and 7 prices fill in with no price key of your own (Standard includes 50 cards a day).",
+  "The light check asks about whitening along the edges, which the scan can miss on full arts and dark edges."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.15.3/resources.neu",
-  "size": 9405267,
-  "sha256": "f475acd3450abde077d39bcc7a9f57f7b33e0498b615c9ba7d3021fab09f353a"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.16.0/resources.neu",
+  "size": 9415315,
+  "sha256": "fbc37efe8638644ab2139dd4d3b4105c2da7b68c58cc5e42ee72e87b28454ed9"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "DrLUQdT6ygeg5YlHnu5xghC2YUM+Vmr36RKL5O7/pDx4g+HpztLi9TcAwHJkJbU1gGZe68aw+X2Btd2fj/IfWw=="
+ "sig": "dOZgBnAGfh7CIivUhvBNxQ8yArUjes9q+3bGw1dlCQzp1w6tqHyp91yjXSGLhV+doyg+afyn5p23hlYOGt2Xmg=="
 }
