@@ -1,17 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.15.1",
+ "version": "1.15.2",
  "date": "2026-10-28",
  "minShell": "6.10.0",
  "notes": [
-  "Standard owners can go Pro from Settings, License: Get Pro, then paste the Pro key. Your Standard key stays saved underneath",
-  "Set up: the friend section now points to cardwright.app"
+  "The slab page finds the card in slabs scanned sideways, upside down or a little crooked, and fills in the card, number, grader and grade from the file name",
+  "Fewer false \"scan looks sharpened\" warnings on sharp scanners with sharpening off",
+  "When a card's dark edge meets black paper, it now says to scan that card on white"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.15.1/resources.neu",
-  "size": 9385100,
-  "sha256": "a649b7ec4103b8baa5de75f936d422edbad6f3b48d38a078a68097e2e7e808da"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.15.2/resources.neu",
+  "size": 9401590,
+  "sha256": "c390dcf6e185adb52b31eaff53249f1641f29e20ec7b316086ca29cd65f96b5a"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "oN/ChzHFiW3Yb0e4r+X2H3A1WP6PI6aNHH+ZSgzGAiw0Q0cDaUfOxhxq1cyyTVOEybC5lNdQpk362P4PGlOwyw=="
+ "sig": "hmwOWfHY4eETJ/uBh/NOdU9uEIvENSLLyaRJHFFTjwV/gaSw1o9F9ZVbr0m8PrlUnJ8hnb8yfeXDaKdU1v1rEA=="
 }
