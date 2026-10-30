@@ -1,20 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.16.2",
+ "version": "1.17.0",
  "date": "2026-10-29",
  "minShell": "6.10.0",
  "notes": [
-  "Scanned a card twice? Combine the two scans into one grade, from Grade a card or from the list after grading a folder",
-  "A scan on black and one on white: each edge now comes from the scan that shows it best",
-  "Scanners that save each scan as TIFF, PNG and JPG: each card is graded once, from the best copy",
-  "A scan your scanner is still saving is tried again instead of failing",
-  "Centering: drag any side to the card's frame, even one it couldn't measure"
+  "Three versions: Standard, Pro and Commercial. Show mode, for grading customers' cards, is part of Commercial",
+  "Keys from the new Cardwright store work, and Settings, License has an Upgrade button",
+  "Commercial shows how many of the month's 100 customer reports you've used",
+  "Founder keys are Commercial"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.16.2/resources.neu",
-  "size": 9437147,
-  "sha256": "603b462b60ff7f4ee990c01e047a0cfede71ee845601a2ce27f2c5783bc051c6"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.17.0/resources.neu",
+  "size": 9442730,
+  "sha256": "4baa730ec9ea259a5daf27bae19a3d522e830dcc9ca2886d45e8e1afe5ab7422"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "rDOdgxfiaEaQayO6d3IJf2N37wlYfW9dpUSqKCNZ2gNUbMB5bdqmJojgJgKJt343m7N86ZoEMlBZTZLKnvYOLA=="
+ "sig": "P4SzxzQRj3pUyua/SJNYxV8kmMCzvE7304ZhgWfuSNOSi2knbr/wwsapY4R7m7tojxqPsxqa2DAsJeo/kD0EFw=="
 }
