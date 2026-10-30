@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.17.1",
+ "version": "1.18.0",
  "date": "2026-10-30",
  "minShell": "6.10.0",
  "notes": [
-  "Show mode reports from a shop list the grading charge: the cards, the price per card and the total",
-  "Every report and email links to cardwright.app, with the LAUNCH20 launch code until December 31"
+  "Pro: price watch. Every card's price updates by itself once a day, and you get an alert when one climbs or falls",
+  "Pro: a chart of what your collection is worth over time, in My collection"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.17.1/resources.neu",
-  "size": 9444495,
-  "sha256": "a40548905768bc8d083a212a1dc8081fda67f5575de3ef744cf46f6bb5c3172b"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.18.0/resources.neu",
+  "size": 9468708,
+  "sha256": "554deec07b033e7ed8b09749ca5cbd9708813ef86faa8fe8a56fe525b022b5c9"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "sPf3sDA0y4IjlsZdgst7LsZP35uGOw9AqPlsapOCE9rmz3pf/BoU5nWuvp/Jkh3Bnq3q75pffSBMKOhSOJqAkw=="
+ "sig": "wajf2Wtm6+6j/tHrzglPMMNnh2x4tLXY0MbIP8pFZIteqHmCxVxKFwjW97p5pk7EY9LYmPSmNEfvl5njfEjy4Q=="
 }
