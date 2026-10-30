@@ -1,17 +1,20 @@
 {
  "app": "card-grader",
- "version": "1.16.1",
+ "version": "1.16.2",
  "date": "2026-10-29",
  "minShell": "6.10.0",
  "notes": [
-  "Share your real grades, if you choose: when a card comes back from the grader, Cardwright can send what it measured and the grade it got (never your scans), so the estimates get better for everyone. History asks once; Settings can stop it or take it all back.",
-  "The real grade box has a place for the slab's cert number."
+  "Scanned a card twice? Combine the two scans into one grade, from Grade a card or from the list after grading a folder",
+  "A scan on black and one on white: each edge now comes from the scan that shows it best",
+  "Scanners that save each scan as TIFF, PNG and JPG: each card is graded once, from the best copy",
+  "A scan your scanner is still saving is tried again instead of failing",
+  "Centering: drag any side to the card's frame, even one it couldn't measure"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.16.1/resources.neu",
-  "size": 9424682,
-  "sha256": "c8e2d267af3f4c8e6d57226b72d73b0e1869976aea94ccb2d07b9bebf8d4b1a8"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.16.2/resources.neu",
+  "size": 9437147,
+  "sha256": "603b462b60ff7f4ee990c01e047a0cfede71ee845601a2ce27f2c5783bc051c6"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "5ogbXrfxdqAxPTpw5aEfdCIUbSBTEkuHJ1JBrUpT3xM9H06lykjV/nVwa54DMEUN5NjLTJTgVqCOjVF5LedYCQ=="
+ "sig": "rDOdgxfiaEaQayO6d3IJf2N37wlYfW9dpUSqKCNZ2gNUbMB5bdqmJojgJgKJt343m7N86ZoEMlBZTZLKnvYOLA=="
 }
