@@ -1,19 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.17.0",
- "date": "2026-10-29",
+ "version": "1.17.1",
+ "date": "2026-10-30",
  "minShell": "6.10.0",
  "notes": [
-  "Three versions: Standard, Pro and Commercial. Show mode, for grading customers' cards, is part of Commercial",
-  "Keys from the new Cardwright store work, and Settings, License has an Upgrade button",
-  "Commercial shows how many of the month's 100 customer reports you've used",
-  "Founder keys are Commercial"
+  "Show mode reports from a shop list the grading charge: the cards, the price per card and the total",
+  "Every report and email links to cardwright.app, with the LAUNCH20 launch code until December 31"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.17.0/resources.neu",
-  "size": 9442730,
-  "sha256": "4baa730ec9ea259a5daf27bae19a3d522e830dcc9ca2886d45e8e1afe5ab7422"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.17.1/resources.neu",
+  "size": 9444495,
+  "sha256": "a40548905768bc8d083a212a1dc8081fda67f5575de3ef744cf46f6bb5c3172b"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "P4SzxzQRj3pUyua/SJNYxV8kmMCzvE7304ZhgWfuSNOSi2knbr/wwsapY4R7m7tojxqPsxqa2DAsJeo/kD0EFw=="
+ "sig": "sPf3sDA0y4IjlsZdgst7LsZP35uGOw9AqPlsapOCE9rmz3pf/BoU5nWuvp/Jkh3Bnq3q75pffSBMKOhSOJqAkw=="
 }
