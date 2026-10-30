@@ -1,16 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.19.3",
+ "version": "1.19.4",
  "date": "2026-10-30",
  "minShell": "6.10.0",
  "notes": [
-  "Edges: the scanner's light line where an edge runs into a corner is no longer counted as whitening"
+  "Corners: a missing bite or a rounded tip now has to show on both sides of the card to count (a real corner looks the same from the front and the back), so a scan of one side can't invent one",
+  "Surface: when you checked the card and saw no marks, tiny light specks the scan finds are called out as likely dust on the scanner glass"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.19.3/resources.neu",
-  "size": 9502745,
-  "sha256": "d0dbe051be8a039d0021baabe0f56190a8466101db02231927b634617cd3b32c"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.19.4/resources.neu",
+  "size": 9505535,
+  "sha256": "9432065c12599870d86dce733f7cefe2aaa5f254d0210f376707de92a0f0938c"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "QeVG4sYFV/DJ9IZsNlJKSaFZvqG55p4tzbJO2we+XFSVN2VNnbinqnDWFVC435Ti56xkA9Y7LtHyRE35DUUTGQ=="
+ "sig": "+PdD1a2K8hYLLqY/NQB8FzGTfGQHna2FfR9Dv6xzxy+H+SbyDXwAS18UtxvfZQxYs7M2aJq9ffcmT9fco03O6g=="
 }
