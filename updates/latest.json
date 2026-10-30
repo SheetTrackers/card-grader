@@ -1,21 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.19.2",
+ "version": "1.19.3",
  "date": "2026-10-30",
  "minShell": "6.10.0",
  "notes": [
-  "Surface: printed bars in the text box, the copyright line in the border and dark full-art rims are no longer read as print lines or stains",
-  "Surface: when you checked the card and saw no marks, small light specks the scan finds are treated as likely scanner dust (wipe the glass and rescan)",
-  "Edges: soft back scans no longer show false whitening along the edge",
-  "One card at a time: the surface check comes first, and there's no PSA 10 or PSA submission list without it (you can turn this off in Settings)",
-  "History: check a real grade on PSA's or CGC's site and mark it as matching",
-  "Settings: a link to leave a review on Trustpilot"
+  "Edges: the scanner's light line where an edge runs into a corner is no longer counted as whitening"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.19.2/resources.neu",
-  "size": 9502049,
-  "sha256": "0f036e5b5d33c4fd9290eba761612d2c589a03312026ff2166825f58c43dca6d"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.19.3/resources.neu",
+  "size": 9502745,
+  "sha256": "d0dbe051be8a039d0021baabe0f56190a8466101db02231927b634617cd3b32c"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "engx8vzvsRJ2bwYdOoDzft14rva4IZic6DoA8lR3gJRfrWnoeFtTICb3w9UFK/at11l3vgHNQmWYdQImHD72NQ=="
+ "sig": "QeVG4sYFV/DJ9IZsNlJKSaFZvqG55p4tzbJO2we+XFSVN2VNnbinqnDWFVC435Ti56xkA9Y7LtHyRE35DUUTGQ=="
 }
