@@ -1,18 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.19.0",
+ "version": "1.19.1",
  "date": "2026-10-30",
  "minShell": "6.10.0",
  "notes": [
-  "Shared learning: your estimates now also learn from the real grades other Cardwright users share, not just your own. It starts once enough people have shared, and you can turn it off in Settings",
-  "Full arts on a black background: cards with a dark border are found properly, and the scanner's light on the cut edge no longer counts as whitening",
-  "Fixes: no false sharpening warning on silver-edged full arts, and the same scan file isn't listed twice"
+  "Corners on black: the scanner's light on a card's cut edge no longer counts as whitening (it held clean cards at PSA 8)",
+  "Real grades from any grader: send cards to PSA, Beckett, CGC, SGC, TAG or AGS, type the grades in one go, mark Pristine and Black Label 10s, and use each company's cert numbers",
+  "Fixes: the 30th stamp's Pikachu ear isn't taken for dirt, and a shadow beside the card isn't taken for sharpening"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.19.0/resources.neu",
-  "size": 9478206,
-  "sha256": "a0bc235da21adb1079f825292f40fd301ea7996969ce608aae6ca80ca3486554"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.19.1/resources.neu",
+  "size": 9490859,
+  "sha256": "3d07134598fea28b3765f304780f82ac63c9d40ab30647e2f62766245ff235dc"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "5/U/NG3X9WGXupWMwhR8UVqOwfHiXUO8fYZbHoum/bAcxeWdlhHTe5ypoV5fAWl35aX31CG3v0QUGPUUa73zWw=="
+ "sig": "WiUbqxvm/F6UcTLedAm/re/bp/0IMIGA0S+EZ1LurZBA03wLuLi0ccSDk78+u7FpnXnTW6sY5VPWMSngHTYG6w=="
 }
