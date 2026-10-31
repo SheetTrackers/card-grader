@@ -1,19 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.22.0",
+ "version": "1.22.1",
  "date": "2026-10-31",
  "minShell": "6.10.0",
  "notes": [
-  "Cardwright accounts: sign in with your email and password on your computers and your phone, and your license comes with it. No key to copy.",
-  "Settings, License lists the computers and phones signed in (2 of each) and can sign any of them out.",
-  "Already unlocked with a key? Make your account in Settings, License: the key on this computer is used.",
-  "Forgot your password? Set a new one with the license key from your receipt email."
+  "Cloud sync starts within minutes of being switched on, and right after you sign in. Before, a copy that checked while it was still off waited a day.",
+  "A downloaded update now shows as a card in the bottom-right corner, with Restart now. Cardwright checks for updates every 30 minutes, and when you come back to it.",
+  "Cloud sync also runs when you come back to Cardwright, as well as every 15 minutes and after each save.",
+  "Settings, License: I have one: sign in is clearer, and offers to make the account if you don't have one yet."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.22.0/resources.neu",
-  "size": 16759084,
-  "sha256": "f74e02160d25e1493aeaac9d349b3620a99eaad82d0ef8c9a9d1a0bb1c7136f5"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.22.1/resources.neu",
+  "size": 16762119,
+  "sha256": "000f7819ee10f9e76624c17b75d60f778486ffca9357020298a10f7ce8862d3f"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "wPEXBUga4TCwxVHa5K7hz3aQR9jqFohruZ4LB+lPIvgnUq9S+bI4z77EVEFwttYxE/190nEI6ymqi+4JhZR3Zw=="
+ "sig": "mJPiL0wSbxesbSbsH+WUUOB7eTyhuGnS4shOR3JgvQG0kzo5fJAWo3XweF8r5Iw0JXPKxHX/5upi43Ug2g4+vw=="
 }
