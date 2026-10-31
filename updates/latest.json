@@ -1,19 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.21.0",
+ "version": "1.22.0",
  "date": "2026-10-31",
  "minShell": "6.10.0",
  "notes": [
-  "Saved cards always open, even when their scans were moved or deleted: you see the saved grade, prices and notes, and can pick the scans again.",
-  "Add a card to My collection without scanning it: find it by name, say if it's raw or in a graded slab and what you paid. It gets prices, the price trend and keep-or-sell advice.",
-  "Chinese cards (traditional and simplified) are recognized and shown with their English name.",
-  "Opening a card whose scans are gone no longer gets stuck on Reading its scans."
+  "Cardwright accounts: sign in with your email and password on your computers and your phone, and your license comes with it. No key to copy.",
+  "Settings, License lists the computers and phones signed in (2 of each) and can sign any of them out.",
+  "Already unlocked with a key? Make your account in Settings, License: the key on this computer is used.",
+  "Forgot your password? Set a new one with the license key from your receipt email."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.21.0/resources.neu",
-  "size": 16692249,
-  "sha256": "cbe6c392039f6d7ebb201e4a686c71abd06c9d2d67f80897346029a5bfee5344"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.22.0/resources.neu",
+  "size": 16759084,
+  "sha256": "f74e02160d25e1493aeaac9d349b3620a99eaad82d0ef8c9a9d1a0bb1c7136f5"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "EzlrZbLabJ1R2joDp+C4KsCy9KBjeMjaBKuF4uBtskkv5iJWdMOadTku83d9Jo4HiLTnlkL/XzhYsgUk7nk4CQ=="
+ "sig": "wPEXBUga4TCwxVHa5K7hz3aQR9jqFohruZ4LB+lPIvgnUq9S+bI4z77EVEFwttYxE/190nEI6ymqi+4JhZR3Zw=="
 }
