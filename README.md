@@ -33,7 +33,7 @@ Grade 5 cards free first. Then **Standard** is $49 once, for your own cards, or 
 
 ## Download (Windows)
 
-**[Download Cardwright 1.20.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 10 MB). Already have it? It updates itself.
+**[Download Cardwright 1.21.0 for Windows](https://github.com/SheetTrackers/card-grader/raw/main/downloads/CardGrader-Setup.exe)** (installer, about 14 MB). Already have it? It updates itself.
 
 ## Install
 
