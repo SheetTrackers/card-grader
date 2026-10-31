@@ -1,17 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.19.4",
+ "version": "1.20.0",
  "date": "2026-10-30",
  "minShell": "6.10.0",
  "notes": [
-  "Corners: a missing bite or a rounded tip now has to show on both sides of the card to count (a real corner looks the same from the front and the back), so a scan of one side can't invent one",
-  "Surface: when you checked the card and saw no marks, tiny light specks the scan finds are called out as likely dust on the scanner glass"
+  "Japanese and Korean cards are now recognised from their number and picture, with the English name shown (Korean cards are matched to the Japanese printing)",
+  "Prices for Japanese cards, raw and PSA, from PokemonPriceTracker's Japanese listings. Korean cards have no price source yet, so their eBay sold searches say Korean",
+  "Price finder: \"Not in the list?\" looks up a card the card list doesn't have (like the Dedenne GX 195a alternate-art promo) by the name and number you typed",
+  "Updates are checked every hour while the app is open, and Settings and About have a link to review Cardwright on Trustpilot"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.19.4/resources.neu",
-  "size": 9505535,
-  "sha256": "9432065c12599870d86dce733f7cefe2aaa5f254d0210f376707de92a0f0938c"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.20.0/resources.neu",
+  "size": 13181904,
+  "sha256": "30f23fcff23aba53f3eaea92fa3463bbfe5c3c27f569a6f1f0f81692da50e117"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "+PdD1a2K8hYLLqY/NQB8FzGTfGQHna2FfR9Dv6xzxy+H+SbyDXwAS18UtxvfZQxYs7M2aJq9ffcmT9fco03O6g=="
+ "sig": "MN0pVvuUvCVOkI4pkXK0MZ8Cww0uPT5QRWBi9gmKcxGjdQbz6c/jcrJs9xuD7bZ4pudD3T1DalUkwdCCl5Mbpg=="
 }
