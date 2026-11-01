@@ -1,17 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.23.0",
- "date": "2026-10-31",
+ "version": "1.23.1",
+ "date": "2026-11-01",
  "minShell": "6.10.0",
  "notes": [
-  "Share report link: on a graded card's page (or Share in History), make a link to the card's whole report to text or email. It opens on any phone or computer, no app needed, with the grades, pictures, centering, corner close-ups and edge strips. Grading only, never prices. A link works for a year.",
-  "The card's page shows Share report link as soon as a license key is entered."
+  "A small \u2122 after the Cardwright name: at the top of the app, on customer reports and in the logo on report emails."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.23.0/resources.neu",
-  "size": 16787911,
-  "sha256": "74da42498ae2040920dd8f5bfa6ee99afe41645731161c76c9b1a2ad5f1f2b7c"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.23.1/resources.neu",
+  "size": 16871582,
+  "sha256": "41d724eb1aa728ec6fb854b96441e09e100e91a87614ef2feb4b785962f083b7"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "kKPQ6gdYpSrkhC1bqyB9tjB++4ySzrT23nzXFJmXaOVpwJwp5+HSMM5Ax7wQxbjuAl6ie9rx4EbhCCSqjoiohQ=="
+ "sig": "Jw9EekngeZ+VzdPXilEcLIUobqj/bMtSWSb9TDBpxuh/O7EHKgkd7MsuBcC+DqXyQR2owpqP8n6zHytdBGS9HA=="
 }
