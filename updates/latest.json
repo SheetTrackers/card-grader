@@ -1,22 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.22.2",
+ "version": "1.23.0",
  "date": "2026-10-31",
  "minShell": "6.10.0",
  "notes": [
-  "Search boxes on History and My collection: type a name, set, number, grade or cert number to find a card.",
-  "Grades lean lower (safer): the chances can lower the big PSA number but never raise it. When they lean higher, it says so.",
-  "Closer to PSA on Roger's cracked slabs: back edges are judged like back corners, and when a card's edge blends into the background its centering isn't counted against the grade.",
-  "A warning sign from the card checks (like a back colour that isn't a real card's) now shows at the top of the result.",
-  "Phone photos stop at PSA 9 (a photo can't show what a 10 needs; a scan can), and a card graded on the phone shows its photos in History, Details.",
-  "A blurry scan widens the range and says so. Chinese gem pack numbers (02 07/07) are read. Saved cards show where their scan files are.",
-  "Friend keys: Cardwright Pro for good."
+  "Share report link: on a graded card's page (or Share in History), make a link to the card's whole report to text or email. It opens on any phone or computer, no app needed, with the grades, pictures, centering, corner close-ups and edge strips. Grading only, never prices. A link works for a year.",
+  "The card's page shows Share report link as soon as a license key is entered."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.22.2/resources.neu",
-  "size": 16776363,
-  "sha256": "7c8ab607f2ca2324a1285667eb66d3147e310e049baec5ffe884fc49efdf41a0"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.23.0/resources.neu",
+  "size": 16787911,
+  "sha256": "74da42498ae2040920dd8f5bfa6ee99afe41645731161c76c9b1a2ad5f1f2b7c"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "a9fU1zzBzJ+mUu/sd1meYqMtVKVtUXo0TdLWDiYf9RMRUTpMRykrgIzSRcX9YHtciq2pw9L+4F7cW3ye2/kf/w=="
+ "sig": "kKPQ6gdYpSrkhC1bqyB9tjB++4ySzrT23nzXFJmXaOVpwJwp5+HSMM5Ax7wQxbjuAl6ie9rx4EbhCCSqjoiohQ=="
 }
