@@ -1,19 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.24.0",
- "date": "2026-11-01",
+ "version": "1.24.1",
+ "date": "2026-11-02",
  "minShell": "6.10.0",
  "notes": [
-  "Grades are closer to real slab grades. Tested on 79 of Rom's and Roger's cards, 12 of them with a real PSA, AGS or CGC grade.",
-  "Dark full-art cards on the black background: the parts that can be seen are measured now, and the grade leans lower when part of a card can't be seen.",
-  "New: Which background? on Grade a card, and a Scan it again button when part of a card blends into the background. Both scans are combined into one grade.",
-  "A faded yellow border on older cards is caught now, and the same card scanned on white and on black gets the same grade."
+  "Old Japanese cards (the 1996-2001 Pocket Monsters back) are recognised: their back colour and print dots are no longer compared with English cards, and one cut a little small all round shows as a check, not as possible trimming or a fake",
+  "Fewer false trimming warnings: grey-bordered cards on a grey lid, and dark-bordered cards on black in scans that don't carry their resolution",
+  "A small chip on a card back scanned on the black lid is no longer missed as scanner glare",
+  "The fake checks hold up better when a scanner's colour or brightness is a little off"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.24.0/resources.neu",
-  "size": 16937730,
-  "sha256": "6f5b55f87b78d514835aaa152c53250aa71c4772f6f0b59604e7f52379619234"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.24.1/resources.neu",
+  "size": 16966005,
+  "sha256": "91fc9bcb4bdd4e067db1ba022b1275f3faedc1fee903d69610b77927c80962f1"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "ClufJMDSJYWn05n0KV2OC3vEU6bB89yMwRqLvPABaKnxMCl6GPUHav0NUYmLlX1B5y+HNht9kGeusz9G1E0+sw=="
+ "sig": "kReMvegC9hUnerJXydlImjBtFV/tsBLENL3BoD16ZumOGke0q7+PhI2RW5c5OaKWR1Tt/1LLpaj8tZ5E2h81tQ=="
 }
