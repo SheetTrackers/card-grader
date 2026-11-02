@@ -1,16 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.23.1",
+ "version": "1.24.0",
  "date": "2026-11-01",
  "minShell": "6.10.0",
  "notes": [
-  "A small \u2122 after the Cardwright name: at the top of the app, on customer reports and in the logo on report emails."
+  "Grades are closer to real slab grades. Tested on 79 of Rom's and Roger's cards, 12 of them with a real PSA, AGS or CGC grade.",
+  "Dark full-art cards on the black background: the parts that can be seen are measured now, and the grade leans lower when part of a card can't be seen.",
+  "New: Which background? on Grade a card, and a Scan it again button when part of a card blends into the background. Both scans are combined into one grade.",
+  "A faded yellow border on older cards is caught now, and the same card scanned on white and on black gets the same grade."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.23.1/resources.neu",
-  "size": 16871582,
-  "sha256": "41d724eb1aa728ec6fb854b96441e09e100e91a87614ef2feb4b785962f083b7"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.24.0/resources.neu",
+  "size": 16937730,
+  "sha256": "6f5b55f87b78d514835aaa152c53250aa71c4772f6f0b59604e7f52379619234"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "Jw9EekngeZ+VzdPXilEcLIUobqj/bMtSWSb9TDBpxuh/O7EHKgkd7MsuBcC+DqXyQR2owpqP8n6zHytdBGS9HA=="
+ "sig": "ClufJMDSJYWn05n0KV2OC3vEU6bB89yMwRqLvPABaKnxMCl6GPUHav0NUYmLlX1B5y+HNht9kGeusz9G1E0+sw=="
 }
