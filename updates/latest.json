@@ -1,19 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.24.1",
+ "version": "1.24.2",
  "date": "2026-11-02",
  "minShell": "6.10.0",
  "notes": [
-  "Old Japanese cards (the 1996-2001 Pocket Monsters back) are recognised: their back colour and print dots are no longer compared with English cards, and one cut a little small all round shows as a check, not as possible trimming or a fake",
-  "Fewer false trimming warnings: grey-bordered cards on a grey lid, and dark-bordered cards on black in scans that don't carry their resolution",
-  "A small chip on a card back scanned on the black lid is no longer missed as scanner glare",
-  "The fake checks hold up better when a scanner's colour or brightness is a little off"
+  "Open in History and My collection no longer asks for scan files: a card whose scans this computer doesn't know (dragged in, or from another computer) opens its saved page with its grades, prices and notes, with Pick its scans if you want the full page",
+  "Scans dragged in from your scanner folder are now remembered, so those cards open on their full page later"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.24.1/resources.neu",
-  "size": 16966005,
-  "sha256": "91fc9bcb4bdd4e067db1ba022b1275f3faedc1fee903d69610b77927c80962f1"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.24.2/resources.neu",
+  "size": 16971806,
+  "sha256": "e03ee611450f189d98b31aefafadc08cf49022d6de4efb6c8bc9a081a71d3ac2"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "kReMvegC9hUnerJXydlImjBtFV/tsBLENL3BoD16ZumOGke0q7+PhI2RW5c5OaKWR1Tt/1LLpaj8tZ5E2h81tQ=="
+ "sig": "9Pdrzx0lrGizU71PFDU5m+TnfOQ2yta8yjqvJV7bPkWrXm1L4ZNy4wwk3GNSXPj7VJm0vVyK22ss5Esmb8QzRw=="
 }
