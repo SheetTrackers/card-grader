@@ -1,19 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.25.0",
- "date": "2026-11-02",
+ "version": "1.26.0",
+ "date": "2026-11-03",
  "minShell": "6.10.0",
  "notes": [
-  "Open and the card's name now show its full grading page, with the scan view, every tab and its findings, straight away. Cardwright keeps that page for every card you grade, so you can delete the scan files and still see everything",
-  "Re-grade and measuring again still need the scans: if they're gone, the page says so and offers Pick its scans",
-  "Fixed prices for cards that only have a European price: a few odd sales no longer make a card look worth far more (a Pikachu promo showed about $1,950 instead of about $90)",
-  "Settings shows how much space the saved pages use"
+  "Cloud sync now carries each card's full page to your other computers and your phone, so Open shows the whole grading page everywhere",
+  "Pro and Commercial: the full page with zoomable card pictures. Standard: every tab, finding and grade, with the small card picture",
+  "A new Settings switch, Keep full pages in the cloud, turns it off and removes the pages from Cardwright's server"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.25.0/resources.neu",
-  "size": 16993894,
-  "sha256": "a9236b124a3ec2465bb8466232024990b4316aa5707da4615c3c5fe7ebba6c84"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.26.0/resources.neu",
+  "size": 17025677,
+  "sha256": "c841044e1c3354c0f622c907e6571cc02cebdb18965695785f76b34bfcf2bac3"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "QAFEumiLXo24ANxBQm3h4V0KTErNOiXEqwbJfSqO3eHvnVc7ZVJzgwKp7AQqXygwyGCZgaQk4I2+NbasciOVNQ=="
+ "sig": "eYhGT8I1RDbiqSiiQ/xW8wYYwE1u0UBdemnx6oZJ7sY+DjJZ5cdoNdx0yykU3iMLiWzA6FkxK2v9YE1laWIxdg=="
 }
