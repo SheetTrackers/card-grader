@@ -1,17 +1,19 @@
 {
  "app": "card-grader",
- "version": "1.24.2",
+ "version": "1.25.0",
  "date": "2026-11-02",
  "minShell": "6.10.0",
  "notes": [
-  "Open in History and My collection no longer asks for scan files: a card whose scans this computer doesn't know (dragged in, or from another computer) opens its saved page with its grades, prices and notes, with Pick its scans if you want the full page",
-  "Scans dragged in from your scanner folder are now remembered, so those cards open on their full page later"
+  "Open and the card's name now show its full grading page, with the scan view, every tab and its findings, straight away. Cardwright keeps that page for every card you grade, so you can delete the scan files and still see everything",
+  "Re-grade and measuring again still need the scans: if they're gone, the page says so and offers Pick its scans",
+  "Fixed prices for cards that only have a European price: a few odd sales no longer make a card look worth far more (a Pikachu promo showed about $1,950 instead of about $90)",
+  "Settings shows how much space the saved pages use"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.24.2/resources.neu",
-  "size": 16971806,
-  "sha256": "e03ee611450f189d98b31aefafadc08cf49022d6de4efb6c8bc9a081a71d3ac2"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.25.0/resources.neu",
+  "size": 16993894,
+  "sha256": "a9236b124a3ec2465bb8466232024990b4316aa5707da4615c3c5fe7ebba6c84"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "9Pdrzx0lrGizU71PFDU5m+TnfOQ2yta8yjqvJV7bPkWrXm1L4ZNy4wwk3GNSXPj7VJm0vVyK22ss5Esmb8QzRw=="
+ "sig": "QAFEumiLXo24ANxBQm3h4V0KTErNOiXEqwbJfSqO3eHvnVc7ZVJzgwKp7AQqXygwyGCZgaQk4I2+NbasciOVNQ=="
 }
