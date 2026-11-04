@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.26.1",
+ "version": "1.27.0",
  "date": "2026-11-04",
  "minShell": "6.10.0",
  "notes": [
-  "Show mode: the whole report is now inside the email, with every picture, so customers can read it the moment they open it on a phone or computer. The report file is still attached as a copy to keep.",
-  "Show mode: the attached report, opened in a phone's preview, now shows every part one after another instead of looking like code."
+  "Show mode: each card in a customer's report now shows what it sells for, raw and each PSA grade, with the date the prices were looked up. Turn it off in Settings, Show mode.",
+  "Old Japanese cards with no number printed on them are now named from the scan instead of left as Card 1, Gym cards with their owner (Erika's Dragonair). When the exact printing isn't in the card list, type its set in Odds & value for its prices."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.26.1/resources.neu",
-  "size": 17036661,
-  "sha256": "0179a7ec469a3de10455ac29ec48e184d5a680cae2faf3ff42b03499ab54d8be"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.27.0/resources.neu",
+  "size": 17045532,
+  "sha256": "1760f66cef348582a94a6cfb5e673d44fdfe901fe6eb4947be83a7e4b30cf765"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "eyUUumOUHnync4VoEKHBtE4WmcOX9ry8BZRTqQfnEGBkl9KVFD390aFFoCQ93EbwR35ne3+t53+deUJEY7+Hkg=="
+ "sig": "smD1e2wAsXYEQzpvWup0mjND9ICrXhDKcroa57SvuiwyGi6saYnLbsn5w37/kq5rudwlFvJ/8apkrufr+zbcqQ=="
 }
