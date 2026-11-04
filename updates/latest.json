@@ -1,18 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.26.0",
- "date": "2026-11-03",
+ "version": "1.26.1",
+ "date": "2026-11-04",
  "minShell": "6.10.0",
  "notes": [
-  "Cloud sync now carries each card's full page to your other computers and your phone, so Open shows the whole grading page everywhere",
-  "Pro and Commercial: the full page with zoomable card pictures. Standard: every tab, finding and grade, with the small card picture",
-  "A new Settings switch, Keep full pages in the cloud, turns it off and removes the pages from Cardwright's server"
+  "Show mode: the whole report is now inside the email, with every picture, so customers can read it the moment they open it on a phone or computer. The report file is still attached as a copy to keep.",
+  "Show mode: the attached report, opened in a phone's preview, now shows every part one after another instead of looking like code."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.26.0/resources.neu",
-  "size": 17025677,
-  "sha256": "c841044e1c3354c0f622c907e6571cc02cebdb18965695785f76b34bfcf2bac3"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.26.1/resources.neu",
+  "size": 17036661,
+  "sha256": "0179a7ec469a3de10455ac29ec48e184d5a680cae2faf3ff42b03499ab54d8be"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "eYhGT8I1RDbiqSiiQ/xW8wYYwE1u0UBdemnx6oZJ7sY+DjJZ5cdoNdx0yykU3iMLiWzA6FkxK2v9YE1laWIxdg=="
+ "sig": "eyUUumOUHnync4VoEKHBtE4WmcOX9ry8BZRTqQfnEGBkl9KVFD390aFFoCQ93EbwR35ne3+t53+deUJEY7+Hkg=="
 }
