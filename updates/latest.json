@@ -1,17 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.27.0",
+ "version": "1.28.0",
  "date": "2026-11-04",
  "minShell": "6.10.0",
  "notes": [
-  "Show mode: each card in a customer's report now shows what it sells for, raw and each PSA grade, with the date the prices were looked up. Turn it off in Settings, Show mode.",
-  "Old Japanese cards with no number printed on them are now named from the scan instead of left as Card 1, Gym cards with their owner (Erika's Dragonair). When the exact printing isn't in the card list, type its set in Odds & value for its prices."
+  "Cardwright is now GrailCrest: same app, same cards, same license, with a new name and logo.",
+  "Links and support moved to grailcrest.app (support@grailcrest.app).",
+  "Show mode can send customer reports through Cloudflare Email Sending, from an address like results@grailcrest.app."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.27.0/resources.neu",
-  "size": 17045532,
-  "sha256": "1760f66cef348582a94a6cfb5e673d44fdfe901fe6eb4947be83a7e4b30cf765"
+  "url": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/updates/1.28.0/resources.neu",
+  "size": 17424458,
+  "sha256": "fd2cc1ddd413f4869b7d7ff9cbb5a5e2052057d50c53acf566366758c6056565"
  },
  "installer": "https://raw.githubusercontent.com/SheetTrackers/card-grader/main/downloads/CardGrader-Setup.exe",
- "sig": "smD1e2wAsXYEQzpvWup0mjND9ICrXhDKcroa57SvuiwyGi6saYnLbsn5w37/kq5rudwlFvJ/8apkrufr+zbcqQ=="
+ "sig": "sGWamLJqBog3GPf6s1VfMOANZqXxuV1sM/X2IS1h/OTk0OABVKX7RppuE39g0azuPI0+Bb++bGCPx7NYzidcYw=="
 }
